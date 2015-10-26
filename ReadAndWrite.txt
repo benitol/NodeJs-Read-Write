@@ -1,0 +1,1 @@
+begin writing to the file: appending to the file from node 
